@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.SaarthiAP" parent="Theme.AppCompat.DayNight.NoActionBar">
+    <style name="Theme.SaarthiAP" parent="android:style/Theme.Material.Light.NoActionBar">
         <item name="android:fontFamily">sans</item>
         <item name="android:windowLightStatusBar">true</item>
     </style>
-
 </resources>
